@@ -19,18 +19,18 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 msgid "!Bang Search Shortcuts"
-msgstr ""
+msgstr "!Bang খোঁজার শর্টকাট"
 
 msgctxt "showcase_donations"
 msgid "$800,000 in privacy donations!"
-msgstr ""
+msgstr "$800,000 গোপনীয়তা অনুদানেতে"
 
 msgctxt "SERP footer content"
 msgid "%s Billion Searches"
-msgstr ""
+msgstr "%s বিলিয়ন অনুসন্ধান"
 
 msgid "%s blocked by safe search."
-msgstr ""
+msgstr "%s নিরাপদ অনুসন্ধান দ্বারা ব্লক করা"
 
 #. in https://duckduckgo.com/params. multiple fors
 msgid "%s for %s"
@@ -38,10 +38,10 @@ msgstr "%s এর জন্য %s"
 
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
-msgstr ""
+msgstr "%s গোপনীয়তা অনুদানেতে"
 
 msgid "%s km"
-msgstr ""
+msgstr "%s কিমি"
 
 msgid "%s mi"
 msgstr ""
@@ -877,15 +877,15 @@ msgstr ""
 "পারেন। এটি সম্পূর্ণরূপে ঐচ্ছিক।"
 
 msgid "Colombia"
-msgstr ""
+msgstr "colombia"
 
 #. Instant Answer tab name
 msgid "Color"
-msgstr ""
+msgstr "রং"
 
 msgctxt "image-color"
 msgid "Color Only"
-msgstr ""
+msgstr "শুধুমাত্র রং"
 
 #. Title for the <em>Color Settings</em> inside <a href="https://duckduckgo.com/params.html">querry parameters page</em>.
 msgid "Color Settings"
